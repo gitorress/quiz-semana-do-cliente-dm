@@ -29,7 +29,7 @@ services:
       ALLOWED_EMAIL_DOMAIN: "@vocedm.com.br"
       ADMIN_EMAILS: giovanna.torres@vocedm.com.br
       FRONTEND_URL: "http://localhost:5173"
-      EVENTO_DATA_INICIO: "2026-09-14T12:00:00-03:00"
+      EVENTO_DATA_INICIO: "2026-09-14T10:00:00-03:00"
     depends_on:
       - db
 
